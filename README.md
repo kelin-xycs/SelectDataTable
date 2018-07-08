@@ -71,7 +71,11 @@ ColumnList 是 select 关键字 后面 要 select 的 栏位列表 。
 总体的 解析结果 是  返回  ColumnList 和  Express  对象嵌套 ，   没有 生成 目标代码 。 如果 生成 目标代码 ，  那就是 编译原理 了 。  呵呵
 
 
-还好 C# 支持
+还好 C# 支持 dynamic 类型 。 不然 处理 不同数据 类型 之间 的 运算 会 搞死 。 
+
+就以 加法 为例 ， 加法支持 int long float double decimal string  6 种 类型 。  其中 前 5 种 数值类型 是 可以互相 相加 的 。
+那么 就要 判断  5 * 5 = 25 种 情况， 再 加上 string 的 2 种 情况 ， 要 判断 27 种 情况 。
+这还只是 加法 。     呵呵
 
 
 
