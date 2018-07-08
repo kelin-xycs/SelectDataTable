@@ -1,0 +1,4 @@
+C:\新建文件夹\Projects 2\SelectDataTable\SelectDataTable\bin\Debug\SelectDataTable.dll
+C:\新建文件夹\Projects 2\SelectDataTable\SelectDataTable\bin\Debug\SelectDataTable.pdb
+C:\新建文件夹\Projects 2\SelectDataTable\SelectDataTable\obj\Debug\SelectDataTable.dll
+C:\新建文件夹\Projects 2\SelectDataTable\SelectDataTable\obj\Debug\SelectDataTable.pdb

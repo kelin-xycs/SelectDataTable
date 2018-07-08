@@ -1,0 +1,8 @@
+C:\新建文件夹\Projects 2\SelectDataTable\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\新建文件夹\Projects 2\SelectDataTable\Test\bin\Debug\Test.exe.config
+C:\新建文件夹\Projects 2\SelectDataTable\Test\bin\Debug\Test.exe
+C:\新建文件夹\Projects 2\SelectDataTable\Test\bin\Debug\Test.pdb
+C:\新建文件夹\Projects 2\SelectDataTable\Test\bin\Debug\SelectDataTable.dll
+C:\新建文件夹\Projects 2\SelectDataTable\Test\bin\Debug\SelectDataTable.pdb
+C:\新建文件夹\Projects 2\SelectDataTable\Test\obj\Debug\Test.exe
+C:\新建文件夹\Projects 2\SelectDataTable\Test\obj\Debug\Test.pdb
