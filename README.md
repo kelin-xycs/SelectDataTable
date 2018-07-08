@@ -59,7 +59,7 @@ columnList Word 的 解析比较简单， 直接 Split(',') ， 再 去掉 栏�
 
 where 条件 的 解析 由  ExpressParser  负责 。 
 
-Express（表达式） 的 解析 同样 是 先分词（Word） ， 同样 也 先 根据 包裹符 分词 ， 然后 在 未被包裹 的 Word 中 需要 运算符 。
+Express（表达式） 的 解析 同样 是 先分词（Word） ， 同样 也 先 根据 包裹符 分词 ， 然后 在 未被包裹 的 Word 中 寻找 运算符 。
 
 这是 第一遍 扫描 。
 
